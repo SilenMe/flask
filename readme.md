@@ -1,6 +1,8 @@
 # about the app
 a blog app using flask
 
+# app is running on https://silenme-flask.herokuapp.com/
+
 ## fill the requirements of requirments.txt then run the app.py
 
 
